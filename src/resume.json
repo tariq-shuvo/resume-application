@@ -1,0 +1,173 @@
+{
+	"name": "Tariqul islam shuvo",
+	"tagline": "Full Stack Developer",
+	"email": "tariq10043@gmail.com",
+	"emailLink": "mailto: tariq10043@gmail.com",
+	"phone": "+8801918322463",
+	"phoneLink": "tel: +8801918322463",
+	"image": "https://i.postimg.cc/cLGqGnjf/profile-pic-resume.jpg",
+	"website": "livehostingbd.com",
+	"websiteLink": "https://livehostingbd.com",
+	"youtube": "tariq10043",
+	"youtubeURL": "https://www.youtube.com/channel/UCOvv5XDR3BFCjSOg9hW3Y4Q/playlists?view_as=subscriber",
+	"facebook": "tariqulshuvo100",
+	"facebookURL": "https://www.facebook.com/tariqulshuvo100",
+	"linkedin": "tariqulshuvo100",
+	"linkedinURL": "https://www.linkedin.com/in/tariqulshuvo100/",
+	"careerObjective":"It's my goal to make your software dream a reality! To maximize the synergistic impact of my creativity at an organization that provides opportunity for career growth and development and hence making marked contribution to enhance your organization’s value. ",
+	"experiences" : [
+		{
+			"title" : "CTO (Chief Technical Officer ) and Instructor",
+			"period": "2017 - Present",
+			"company": "Shikhbeshobai Solutions",
+			"companyURL": "https://shikhbeshobai.com",
+			"details": [
+				"Incharge of every technical task and team lead",
+				"Web application development instructor",
+				"Build custom ERP solution used by company",
+				"Web development course curriculum creation etc"
+			]
+		},
+		{
+			"title" : "Senior software developer and lead instructor",
+			"period": "2015 - 2017",
+			"company": "Coderstrust Bangladesh Limited",
+			"companyURL": "https://coderstrustbd.com",
+			"details": [
+				"Web application development instructor and team lead",
+				"Was a lead developer, product architect and team leader",
+				"Web development course curriculum creation, update, class schedule creation and monitor the process, etc"
+			]
+		},
+		{
+			"title" : "Web application developer and IT officer",
+			"period": "2014 - 2015",
+			"company": "Haji Ahmed Brothers Securities Limited",
+			"companyURL": "http://www.habsecurities.com",
+			"details": [
+				"Server maintenance",
+				"Worked on several products through all phases of development",
+				"In house web application development",
+				"Create documentation for web application users"
+			]
+		}
+	],
+	"projects": [
+		{
+			"name":"Craglist Auto Posting Application",
+			"url": "http://digitechsolution.org",
+			"detail": "I am the lead developer of this web application. This web application back end is using php."
+		},
+		{
+			"name":"Crypto trading application",
+			"url": "https://ecoinsbank.com",
+			"detail": "This platform structure created and developed by me. I have working as lead developer on this project. I have used here React js technology in front end backend have used php codeigniter."
+		},
+		{
+			"name":"Affiliation Management System",
+			"url": "https://affiliate.shikhbeshobai.com",
+			"detail": "I have developed this project structure and every thing. This multi level user affiliate platform. I have used codeigniter php framework to build this application."
+		},
+		{
+			"name":"Nutrition calculation web application",
+			"url": "https://www.rich-piana.com/en/",
+			"detail": "I was responsible for all the front end part and using ajax data of this application. I was a team member of this web application development team."
+		},
+		{
+			"name":"Computer hardware management application",
+			"url": "https://computer-assets.herokuapp.com",
+			"detail": "I currently working on this project. This project architecture and all the staff is doing by me. In this application i am using mlab, node js for backend technology."
+		},
+		{
+			"name":"Offroad Bangladesh",
+			"url": "http://offroadbangladesh.com",
+			"detail": "I was a team member when i was working on this web application. This application is build using php technology."
+		},
+		{
+			"name":"Visa Information site",
+			"url": "https://visathings.com",
+			"detail": "This is a visa information website which done by me using wordpress theme development."
+		}
+	],
+	"skills": [
+		{
+			"name": "PHP & Codeigniter",
+			"percent": "98%"
+		},
+		{
+			"name": "Javascript, jQuery",
+			"percent": "90%"
+		},
+		{
+			"name": "ES6, React Js",
+			"percent": "85%"
+		},
+		{
+			"name": "Wordpress",
+			"percent": "85%"
+		},
+		{
+			"name": "HTML5 & CSS",
+			"percent": "99%"
+		},
+		{
+			"name": "Mysql & MongoDB",
+			"percent": "90%"
+		},
+		{
+			"name": "Node & Express",
+			"percent": "90%"
+		},
+		{
+			"name": "Sketch & Photoshop",
+			"percent": "85%"
+		}
+	],
+	"education": [
+		{
+			"degree": "BSc(Engg.) - Computer Science and Engineering",
+			"university": "Mawlana Bhashani Science and Technology University",
+			"period": "2009 - 2014"
+		},
+		{
+			"degree": "HSC - Higher Secondary Certificate",
+			"university": "Milestone College",
+			"period": "2007 - 2009"
+		},
+		{
+			"degree": "SSC - Secondary School Certificate",
+			"university": "Mollartek Udayan School and College",
+			"period": "2005 - 2007"
+		}
+	],
+	"languages": [
+		{
+			"name":"Bangla",
+			"details": "Native"
+		},
+		{
+			"name":"English",
+			"details": "Professional"
+		},
+		{
+			"name":"Hindi",
+			"details": "Professional"
+		}
+	],
+	"interests": [
+		"Work with skilled people",
+		"Project management",
+		"Learn new technology",
+		"Share knowledge with people"
+	],
+	"developer":{
+		"name":"Tariqul islam shuvo",
+		"link":"https://"
+	}
+}
+
+
+
+
+
+
