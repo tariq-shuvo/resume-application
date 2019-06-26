@@ -7,9 +7,7 @@ import Project from './project/Project';
 class Projects extends Component{
     getProjectData(projects){
         let projectData=[];
-        projects.map((item,i)=>{
-            projectData.push(<Project item={item} key={i}/>);
-        });
+        projects.map((item,i)=>projectData.push(<Project item={item} key={i}/>));
         return projectData;
     }
 

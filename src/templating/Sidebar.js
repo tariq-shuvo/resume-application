@@ -10,25 +10,19 @@ class Sidebar extends Component{
 
     getEducationData(educations){
         let educationData=[];
-        educations.map((item,i)=>{
-            educationData.push(<Education item={item} key={i}/>);
-        });
+        educations.map((item,i)=>educationData.push(<Education item={item} key={i}/>));
         return educationData;
     }
 
     getLanguagesData(languages){
         let languageData=[];
-        languages.map((item,i)=>{
-            languageData.push(<Language item={item} key={i}/>);
-        });
+        languages.map((item,i)=>languageData.push(<Language item={item} key={i}/>));
         return languageData;
     }
 
     getInterestsData(interests){
         let interestsData=[];
-        interests.map((item,i)=>{
-            interestsData.push(<Interest item={item} key={i}/>);
-        });
+        interests.map((item,i)=>interestsData.push(<Interest item={item} key={i}/>));
         return interestsData;
     }
 

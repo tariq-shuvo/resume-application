@@ -7,9 +7,7 @@ import Skill from './skill/Skill';
 class Skills extends Component{
     getSkillData(skills){
         let skillData=[];
-        skills.map((item,i)=>{
-            skillData.push(<Skill item={item} key={i}/>);
-        });
+        skills.map((item,i)=>skillData.push(<Skill item={item} key={i}/>));
         return skillData;
     }
     render(){

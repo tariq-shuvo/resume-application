@@ -55,7 +55,7 @@
 	"projects": [
 		{
 			"name":"Craglist Auto Posting Application",
-			"url": "http://digitechsolution.org",
+			"url": "https://digitechsolutions.org",
 			"detail": "I am the lead developer of this web application. This web application back end is using php."
 		},
 		{
@@ -85,7 +85,7 @@
 		},
 		{
 			"name":"Visa Information site",
-			"url": "https://visathings.com",
+			"url": "https://www.visathing.com/",
 			"detail": "This is a visa information website which done by me using wordpress theme development."
 		}
 	],

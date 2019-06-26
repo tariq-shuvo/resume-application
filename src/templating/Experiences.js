@@ -7,9 +7,7 @@ import Experience from './experance/Experance';
 class Experances extends Component{
     getExperienceData(experience){
         let experienceData=[];
-        experience.map((item,i)=>{
-            experienceData.push(<Experience item={item} key={i}/>);
-        });
+        experience.map((item,i)=>experienceData.push(<Experience item={item} key={i}/>));
         return experienceData;
     }
 
